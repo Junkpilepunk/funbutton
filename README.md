@@ -15,10 +15,15 @@ You can Change the pin configuration to whatever your needs are.
 Pin 1 - source for Signal (all pushbuttons parallel)
 
 Button1: Pin 11 (GPIO 17)
+
 Button2: Pin 13 (GPIO 27)
+
 Button1: Pin 15 (GPIO 22)
+
 Button1: Pin 16 (GPIO 23)
+
 Button1: Pin 18 (GPIO 24)
+
 Button1: Pin 22 (GPIO 25)
 
 # Usage
